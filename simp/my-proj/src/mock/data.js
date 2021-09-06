@@ -54,7 +54,7 @@ export const projectsData = [
     info: '  Every person has their own journeys to success and happiness, but when human beings experience trauma or stressing life, you will find that it is not uncommon for their lives to unravel. Well, biggest passion is bringing hope to those that have been in such stressful experience by connecting them to what can bring them hope and joy. I know that no single approach is the right one for every individual who has been through such but have been trained in a range of modalities which can help others gain happiness. You find that my entire life besides my work schedule, I finish it with creating community and group gatherings in sports or events activities where we take time to share certain difficulties and help one another move a step ahead.My education background is a Bachelor’s degree in Social Sciences at Makerere University Kampala with a Major in Social Administration.',
     info2: '',
 
-    url: 'https://www.instagram.com/senyonjo.ronnie', // if no repo, the button will not show up
+    url: 'https://www.instagram.com/ronniesenyonjo/?hl=en', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -84,7 +84,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'instagram',
-      url: 'https://www.instagram.com/senyonjo.ronnie',
+      url: 'https://www.instagram.com/ronniesenyonjo/?hl=en',
     },
     {
       id: nanoid(),
