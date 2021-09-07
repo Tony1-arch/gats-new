@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/gats-new',
   plugins: [
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
